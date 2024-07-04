@@ -17,3 +17,7 @@ section{
 div{
     background-color: bisque;
 }
+label{
+   display: block;
+   margin-top: 10px;
+}
